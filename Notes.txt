@@ -3,3 +3,7 @@ Learn How to call API from Backend.
 -npm init -> To create package.json file
 
 -git init, git add ., git commit -m "message" -> Initialize git repository and add all files.
+
+-AWS, Azure, Cloudnary -> Can be used to store images.
+
+-Keep the uploaded images in local server for temporary, if any connection issues.
