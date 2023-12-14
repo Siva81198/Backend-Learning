@@ -21,3 +21,25 @@ Learn How to call API from Backend.
 -Use try catch or promises when connecting to database.
 
 -Use async and await when connecting to database.
+
+-Custom API response and Error handling
+
+-Packages Installed -> cookie-parser, CORS
+
+-app.use() -> This is used in middleware and for congiguration
+
+-(err, res, req, next[middleware])
+
+-Higher Order Function which takes function as a parameter and return a function also.
+
+-Need to learn utils folder files.
+
+-Users and video model with Hooks and JWT
+
+-bson data?
+
+-mongoose-aggregate-paginate-v2 [aggregation pipeline] -> Important Package
+
+-bcrypt/bcrypt.js - hash password
+
+-JWT is a bearer token
