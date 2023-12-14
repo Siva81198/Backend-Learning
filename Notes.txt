@@ -7,3 +7,17 @@ Learn How to call API from Backend.
 -AWS, Azure, Cloudnary -> Can be used to store images.
 
 -Keep the uploaded images in local server for temporary, if any connection issues.
+
+-How to connect database?
+
+-System specific data and sensitive data in .env file
+
+-In constants file -> We can keep the variables we can use throughout the project.
+
+-Packages installed -> dotenv, mongoose, express
+
+-Mongoose helps us to connect to the database.
+
+-Use try catch or promises when connecting to database.
+
+-Use async and await when connecting to database.
