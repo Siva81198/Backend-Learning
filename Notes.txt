@@ -43,3 +43,11 @@ Learn How to call API from Backend.
 -bcrypt/bcrypt.js - hash password
 
 -JWT is a bearer token
+
+-How to upload file in backend using Multer.
+
+-Two things required for file upload - express-fileupload/Multer
+
+-Get the file to be uploaded from the user through multer and store it in local server, then from there using cloundinary we would get the final files.
+
+-import fs from "fs" -> File System does not need to be installed, node js has this by default.
